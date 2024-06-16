@@ -4,7 +4,7 @@
     <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/doraemon890/count.svg" />
 
-<h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=F778A1&width=350&lines=✨+🦋˹𝐍𝐎𝐁𝐈𝐓𝐀+✘+𝐒𝐏𝐀𝐌˼+🖤+🥀"></b></h1>
+<h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=F778A1&width=350&lines=✨+🦋˹𝐍𝐎𝐁𝐈𝐓𝐀+lINK+BOT˼+🖤+🥀"></b></h1>
 <p align="center"><a href="https://t.me/BTW_AYU_0"><img src="https://telegra.ph/file/eda582215698de75e8419.jpg" width="100"></a></p>
 
 ## Link Search Bot & Mdisk Search Bot 
